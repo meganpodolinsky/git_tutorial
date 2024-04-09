@@ -12,3 +12,8 @@ gitcreds::gitcreds_set()
 
 x <- rnorm(100)
 hist(x)
+
+
+
+
+##hey megan this is really good!
